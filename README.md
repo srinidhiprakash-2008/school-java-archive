@@ -1,8 +1,11 @@
 # Java Archive // School Era
 
 **Status:** Archived
+
 **Language:** Java
+
 **Environment:** BlueJ
+
 **Programs:** 100+
 
 A collection of Java programs developed during my school years while learning programming fundamentals.
