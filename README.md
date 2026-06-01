@@ -3,7 +3,7 @@
 **Status:** Archived
 **Language:** Java
 **Environment:** BlueJ
-**Programs:** 124
+**Programs:** 100+
 
 A collection of Java programs developed during my school years while learning programming fundamentals.
 
@@ -22,7 +22,7 @@ While these programs were written before my engineering studies, they represent 
 ```text
 Repository Type : Learning Archive
 Language        : Java
-Programs        : 124
+Programs        : 100+
 Environment     : BlueJ
 ```
 
